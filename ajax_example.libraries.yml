@@ -1,0 +1,5 @@
+ajax:
+  js:
+    js/ajax_example.js: {}
+  dependencies:
+    - core/drupal.ajax
